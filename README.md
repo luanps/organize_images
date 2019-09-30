@@ -20,7 +20,7 @@ Both can be obtained on linux official repo:
   <li>  run <em>./organize_images/iphone-photo-conversion.sh</em>
 </ul>
 
-Additionaly, you can organize your images by date on folders.
+Additionaly, you can organize your images on subfolders by date.
 For this, go to destination folder <em>~/iphone-fotos</em> and run
 <em>./organize_images/image-to-folder.sh</em>
 
